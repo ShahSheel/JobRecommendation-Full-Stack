@@ -1,0 +1,171 @@
+1523905116301	geckodriver	INFO	geckodriver 0.20.1
+1523905116361	geckodriver	INFO	Listening on 127.0.0.1:55020
+1523905116606	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KGWOCwt1j7h0"
+*** You are running in headless mode.
+1523905122229	Marionette	INFO	Listening on port 55025
+1523905123013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524599410787	geckodriver	INFO	geckodriver 0.20.1
+1524599410822	geckodriver	INFO	Listening on 127.0.0.1:50129
+1524599411262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ANRS56E2Lys1"
+*** You are running in headless mode.
+1524599417014	Marionette	INFO	Listening on port 50134
+1524599417653	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2492, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1524601122985	geckodriver	INFO	geckodriver 0.20.1
+1524601123020	geckodriver	INFO	Listening on 127.0.0.1:56736
+1524601123294	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.HaGgnqHSSzq4"
+*** You are running in headless mode.
+1524601127939	Marionette	INFO	Listening on port 56741
+1524601128067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524601184339	geckodriver	INFO	geckodriver 0.20.1
+1524601184348	geckodriver	INFO	Listening on 127.0.0.1:57080
+1524601184652	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ai1Xq5QP0S7x"
+*** You are running in headless mode.
+1524601189277	Marionette	INFO	Listening on port 57090
+1524601189385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524620236205	geckodriver	INFO	geckodriver 0.20.1
+1524620236242	geckodriver	INFO	Listening on 127.0.0.1:58543
+1524620236523	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ckPsjOPN3Ast"
+*** You are running in headless mode.
+1524620242249	Marionette	INFO	Listening on port 58551
+1524620250016	geckodriver	INFO	geckodriver 0.20.1
+1524620250037	geckodriver	INFO	Listening on 127.0.0.1:58634
+1524620250535	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.C199ypHHecat"
+*** You are running in headless mode.
+JavaScript error: resource://activity-stream/lib/HighlightsFeed.jsm, line 188: TypeError: this.store.getState(...).Sections.find(...) is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00F9,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00FA,name=PContent::Msg_AccumulateChildKeyedHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00FE,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+[Child 700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524620269248	Marionette	INFO	Listening on port 58643
+1524620270035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524620421234	geckodriver	INFO	geckodriver 0.20.1
+1524620421242	geckodriver	INFO	Listening on 127.0.0.1:58809
+1524620421747	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.M3RlAMtxBh0j"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1524620424037	Marionette	INFO	Listening on port 58814
+1524620424376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526580589786	geckodriver	INFO	geckodriver 0.20.1
+1526580589829	geckodriver	INFO	Listening on 127.0.0.1:54202
+1526580590224	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.BCa5nLScFPnM"
+*** You are running in headless mode.
+1526580596261	Marionette	INFO	Listening on port 54207
+1526580596578	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526582466685	geckodriver	INFO	geckodriver 0.20.1
+1526582466730	geckodriver	INFO	Listening on 127.0.0.1:63372
+1526582467133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.1gYsFVDuk5M7"
+*** You are running in headless mode.
+1526582473454	Marionette	INFO	Listening on port 63377
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 7084, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  SessionStore: flushing all windows
+          Phase: quit-application-granted
+          State: {"total":-1,"current":-1}
+WARNING: [Exception... "Unexpected error"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource:///modules/sessionstore/TabStateFlusher.jsm :: flush :: line 85"  data: no]
+WARNING: flush@resource:///modules/sessionstore/TabStateFlusher.jsm:85:5
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:108:23
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:31:12
+flushAllWindowsAsync/<@resource:///modules/sessionstore/SessionStore.jsm:1670:31
+ssi_forEachBrowserWindow@resource:///modules/sessionstore/SessionStore.jsm:4223:9
+flushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:1669:5
+async*ssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:1613:27
+trigger@resource://gre/modules/AsyncShutdown.jsm:710:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:857:7
+wait@resource://gre/modules/AsyncShutdown.jsm:841:28
+observe@resource://gre/modules/AsyncShutdown.jsm:524:17
+observe@resource:///modules/ContentCrashHandlers.jsm:157:11
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0107,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+]
+WARNING: flush@resource:///modules/sessionstore/TabStateFlusher.jsm:85:5
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:108:23
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:31:12
+flushAllWindowsAsync/<@resource:///modules/sessionstore/SessionStore.jsm:1670:31
+ssi_forEachBrowserWindow@resource:///modules/sessionstore/SessionStore.jsm:4223:9
+flushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:1669:5
+async*ssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:1613:27
+trigger@resource://gre/modules/AsyncShutdown.jsm:710:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:857:7
+wait@resource://gre/modules/AsyncShutdown.jsm:841:28
+observe@resource://gre/modules/AsyncShutdown.jsm:524:17
+observe@resource:///modules/ContentCrashHandlers.jsm:157:11
+
+1530392423695	geckodriver	INFO	geckodriver 0.20.1
+1530392423730	geckodriver	INFO	Listening on 127.0.0.1:65370
+1530392424214	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Firefox Nightly\\Firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.NuHFZwKYNjT3"
+*** You are running in headless mode.
+1530392428250	Marionette	INFO	Listening on port 65375
+1530392428519	Marionette	WARN	TLS certificate errors will be ignored for this session

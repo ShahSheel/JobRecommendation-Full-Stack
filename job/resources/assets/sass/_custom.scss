@@ -1,0 +1,241 @@
+// Naviation bar 
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+	a{
+		color: set-text-color($main-color) !important;
+	}
+	.fa{
+		font-sie: 18px;
+	}
+}
+
+// Show case photo 
+.showcase{
+	background: url(../img/showcase.jpeg) no-repeat 0 -200px fixed;
+	height: 600px;
+	padding: 30px 0;
+	h1{
+		font-size: 60px;
+	}
+
+	.container{
+		//background: #fff;
+		opacity: 0.7;
+		padding: 20px 30px 30px 30px;
+		margin: 80px;
+		
+	}
+
+
+
+
+}
+
+
+/** Images **/
+
+.fa fa-upload {
+
+	color: red;
+	opacity: 1.0%;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	
+	/*Reflection*/
+	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));
+}
+
+// Upload CV, Job offer and startworking section
+
+.section-a{
+	padding: 30px 0;
+	text-align: center;
+	background: $main-color;
+	color: set-text-color($main-color);
+
+	.fa{
+		font-size: $icon-size;
+
+	}
+	.fa:hover{
+			font-size: 80px;
+			-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+		}
+}
+
+// What we do section
+
+.section-b{
+	background: #e6ebf1;
+	padding: 30px 0;
+	img{
+		width: 100%;
+	}
+
+	p{
+		background: #fff;
+		opacity: 0.7;
+		padding: 20px 30px 30px 30px;
+	}
+}
+
+
+.panel-heading h4{
+	color: set-text-color($main-color);
+
+}
+
+// What's our purpose 
+
+.section-c{
+	background: grey;
+	padding: 30px 0;
+	img{
+		width: 100%;
+	}
+
+	p{
+		background: #fff;
+		opacity: 0.7;
+		padding: 20px 30px 30px 30px;
+	}
+
+}
+
+
+// Pricing tables background
+
+.section-d{
+	padding: 60px 0;
+	text-align: center;
+	background: $main-color;
+	color: set-text-color($main-color);
+
+	.btn-primary{
+		background: darken($main-color,10%);
+	}
+}
+
+
+// pricing tables
+
+.columns{
+	float: left;
+	width: 33.3%;
+	padding: 8px;
+
+    // Color for each pricing type
+	.basic{ background-color: #239B56;}
+	.standard{ background-color: #1E8449;}
+	.premium{background-color: #0E6655;}
+
+	// Syle of pricing table list
+
+	.price {
+	list-style-type: none;
+	border: 1px solid #eee;
+	margin: 0;
+	padding: 0;
+	-webkit-transition: 0.3s;
+	transition: 0.3s
+	}
+		/* List items */
+	.price li {
+    padding: 20px;
+    text-align: center;
+		}
+
+	.info{ background-color: #e6ebf1; color: set-text-color(#e6ebf1);}
+	.signUpBasic{ background-color: #239B56; color: #fff; }
+	.signUpStandard{ background-color: #1E8449;}
+	.signUpPremium{ background-color: #0E6655;}
+	  .button {
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+	}
+
+}
+
+
+
+// Hover on pricing list
+.price:hover{
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+
+
+/* Grey list item */
+.price .pricecost {
+    background-color:  #00ced1;
+    font-size: 20px;
+}
+
+
+/* Change the width of the three columns to 100% 
+(to stack horizontally on small screens) */
+@media only screen and (max-width: 600px) {
+    .columns {
+        width: 100%;
+    }
+}
+
+
+
+footer{
+	padding: 30px 0;
+	background: darken($main-color,10%);
+	color: set-text-color($main-color);
+
+}
+
+.title-bar{
+	padding-bottom: 10px;
+	border-bottom: 4px solid $main-color;
+}
+
+.main{
+	margin-top: 30px;
+}
+
+
+html{
+	position: relative;
+	min-height: 100%;
+}
+
+
+
+.footer{
+	position: absolute !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 60px !important;
+	background-color: darken($main-color,10%);
+}
+
+
+#wrap{
+	min-weight:100%;
+}
+
+
+.user{
+	.fa{
+		font-size: 20px;
+	}
+}
+
+.password{
+	.fa{
+		font-size: 20px;
+	}
+}
