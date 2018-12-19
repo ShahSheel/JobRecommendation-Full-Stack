@@ -1,5 +1,10 @@
 # JobRecommendation-Full-Stack
-Final year project, a full-stack job recommendation website
+
+## Developed in: 
+
+* Laravel 5.6
+* PostegreSQL
+* Python 3.3
 
 
 The matching system
